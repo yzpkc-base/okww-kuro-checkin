@@ -1,0 +1,8 @@
+dist*/
+__pycache__/
+*.zip
+kuro_config.json
+checkin_log.md
+checkin_state.json
+build/
+release_notes.md
